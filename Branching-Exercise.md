@@ -23,7 +23,8 @@ Answer the following questions:
 - `git branch -D branchName` force delete
 
 - How do merge conflicts happen?
-Lorsque Git ne peut pas déterminer quel fichier ou dossier choisir lors de la fusion car il y a eu différents commits avec des changements au même fichier.
+
+    when Git is not able to know if a file or folder have been different commits with changes the same file.
 
 ## Part II
 
